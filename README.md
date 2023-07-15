@@ -13,7 +13,7 @@ ________
 ___
 ## Заметки
 :one: Использована библиотека для работы с Telegram-ботом   
-[https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot?ysclid=lk3nk88px9625161661](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot?ysclid=lk3nk88px9625161661)  
+[https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot?ysclid=lk3nk88px9625161661)  
 :two: ESP32 использует UART2, STM32 использует UART1 для общения  
 :three: Настройки WI-FI и тг-бота вынесены в setup.h :key:  
 :four: Фоторезистор подключен к ADC1 STM32 через делитель напряжения 10кОм
